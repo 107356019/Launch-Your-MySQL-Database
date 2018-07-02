@@ -1,4 +1,4 @@
-# Quickly Deploy Your Application through CloudFormation
+# Launch Your MySQL Database
 
 ## Scenario
 This lab builds on the previous lab. It walks you through launching an Amazon Relation Database Service ([Amazon RDS](https://aws.amazon.com/rds/)) DB instance. You will configure the LAMP server that you previously created to use Amazon RDS for its relational database management system needs. This lab is designed to connect DB instance through a web service phpMyAdmin.
