@@ -49,20 +49,20 @@ You will build the following architecture:
 2.3. 	Select **Public Subnet 2**, scroll down to the Summary tab in the lower pane. Take note of the **Availability Zone** for this subnet.
 
 2.4. 	Click Create Subnet dialog box, enter the following details:
-* Name tag: Private Subnet 3
-* VPC: ‘My Lab VPC’
-* Availability Zone: ‘us-west-2a’
-* CIDR block: 10.0.5.0/24
+* Name tag: **Private Subnet 3**
+* VPC: **My Lab VPC**
+* Availability Zone: **us-east-2a**
+* CIDR block: **10.0.5.0/24**
 
 2.5. 	Click **Yes, Create**.
 
 2.6. 	Click **Create Subnet**.
 
 2.7. 	In Create Subnet dialog box, enter the following details:
-* Name tag: Private Subnet 4
-* VPC: ‘My Lab VPC’
-* Availability Zone: ‘us-west-2b’
-* CIDR block: 10.0.6.0/24
+* Name tag: **Private Subnet 4**
+* VPC: **My Lab VPC**
+* Availability Zone: **us-east-2b**
+* CIDR block: **10.0.6.0/24**
 
 2.8. 	Click **Yes, Create**.
 
@@ -75,13 +75,13 @@ You will build the following architecture:
 3.3. 	Click **Create DB Subnet Group**.
 
 3.4. 	On the Create DB Subnet Group page, enter the following details:
-* Name: dbsubnetgroup
-* Description: Lab DB Subnet Group
-* VPC ID: Click My Lab VPC
+* Name: **dbsubnetgroup**
+* Description: **Lab DB Subnet Group**
+* VPC ID: Click **My Lab VPC**
 
-3.5. 	For **Availability Zone**, choose **us-west-2a**, choose **10.0.5.0/24**, then click **Add****.
+3.5. 	For **Availability Zone**, choose **us-east-2a**, choose **10.0.5.0/24**, then click **Add**.
 
-3.6. 	Choose another **Availability Zone us-west-2b**, choose **10.0.6.0/24**, then click **Add**.
+3.6. 	Choose another Availability Zone as **us-east-2b**, choose **10.0.6.0/24**, then click **Add**.
 
 3.7. 	Click **Create**.
 
