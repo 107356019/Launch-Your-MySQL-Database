@@ -155,9 +155,8 @@ You will build the following architecture:
 ## Conclusion
 
 Congratulations! You now have learned how to:
-* Logged into Amazon Management Console.
-* Setup network security included subnets and security group.
-* Create an Amazon Relation Database (RDS).
+* Setup network security included subnets and security group for database.
+* Create an Amazon Relation Database (Amazon RDS).
 * Logged into your DB instance.
 
 
