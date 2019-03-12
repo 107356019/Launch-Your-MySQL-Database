@@ -103,7 +103,8 @@ You will build the following architecture:
 
 4.6.     On the **Specify DB Details** page, enter the following details:
 * DB Instance Class: Choose db.t2.micro—1 vCPU, 1GiB RAM.
-* Multi-AZ Deployment: Click Yes.
+* Multi-AZ Deployment: Click **Create replica in different zone**.
+* Storage type: Coose **General purpose**
 * DB Instance Identifier: LabDBInstance
 * Master Username: labuser
 * Master Password: labpassword
